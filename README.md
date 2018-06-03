@@ -3,6 +3,8 @@ v2.0.1
 
 CC 4.0 BY-NC-SA
 
+Skin demo: https://streamable.com/kh441
+
 ----
 
 The icons used in this skin are from https://materialdesignicons.com/ and https://icons8.com/
