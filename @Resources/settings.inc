@@ -31,7 +31,7 @@ BarGradient=180 | 0,178,255,255 ; 0.0 | 139,22,255,255 ; 0.5 | 255,51,51,255 ; 1
 AnimationFactor=24
 
 ;This controls if battery is displayed across the skins. 0 to display and 1 to hide them.
-ShowBattery=0
+ShowBattery=1
 
 ;These changes the font used in the skin.
 ;Font used on the bars
@@ -67,14 +67,14 @@ Group1BarIcon=hexagons.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group1Launcher1Action= explorer.exe "C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\AfterFX.exe"
-Group1Launcher1Name=After Effects
-Group1Launcher1Icon=_c_aftereffects.png
-Group1Launcher1BG=112
+Group1Launcher1Action=explorer.exe "C:\Program Files\Unity\Editor\Unity.exe"
+Group1Launcher1Name=Unity
+Group1Launcher1Icon=_d_unity.png
+Group1Launcher1BG=076
 
-Group1Launcher2Action=explorer.exe "C:\Program Files\Adobe\Adobe Premiere Pro CS6\Adobe Premiere Pro.exe"
-Group1Launcher2Name=Premiere
-Group1Launcher2Icon=_c_premiere.png
+Group1Launcher2Action=explorer.exe "C:\Program Files\Blender Foundation\Blender\blender.exe"
+Group1Launcher2Name=Blender
+Group1Launcher2Icon=_c_blender.png
 Group1Launcher2BG=056
 
 Group1Launcher3Action=explorer.exe "C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Photoshop.exe"
@@ -90,12 +90,12 @@ Group1Launcher4BG=047
 Group1Launcher5Action=explorer.exe "C:\Users\Tack\Documents\PaintTool SAI English Pack\sai.exe"
 Group1Launcher5Name=Paint Tool SAI
 Group1Launcher5Icon=_c_painttoolsai.png
-Group1Launcher5BG=069
+Group1Launcher5BG=106
 
 Group1Launcher6Action=explorer.exe "C:\Program Files\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\CILPStudio.exe"
 Group1Launcher6Name=Clip Studio Paint
 Group1Launcher6Icon=_c_clipstudiopaint.png
-Group1Launcher6BG=106
+Group1Launcher6BG=102
 
 ;=========================================================================================================================
 ;Group 2 
@@ -107,35 +107,35 @@ Group2BarIcon=arc.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group2Launcher1Action=explorer.exe "C:\Program Files\Unity\Editor\Unity.exe"
-Group2Launcher1Name=Unity
-Group2Launcher1Icon=_d_unity.png
+Group2Launcher1Action=explorer.exe "C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\AfterFX.exe"
+Group2Launcher1Name=After Effects
+Group2Launcher1Icon=_c_aftereffects.png
 Group2Launcher1BG=093
 
-Group2Launcher2Action=explorer.exe "C:\Users\Tack\AppData\Local\GitHubDesktop\GitHubDesktop.exe"
-Group2Launcher2Name=Github Desktop
-Group2Launcher2Icon=_d_github.png
+Group2Launcher2Action=explorer.exe "C:\Program Files\Adobe\Adobe Premiere Pro CS6\Adobe Premiere Pro.exe"
+Group2Launcher2Name=Premiere
+Group2Launcher2Icon=_c_premiere.png
 Group2Launcher2BG=027
 
-Group2Launcher3Action=explorer.exe "C:\Program Files\GIMP 2\bin\gimp-2.10.exe"
-Group2Launcher3Name=GIMP 2
-Group2Launcher3Icon=_c_gimp.png
+Group2Launcher3Action=explorer.exe "C:\Users\Tack\AppData\Local\GitHubDesktop\GitHubDesktop.exe"
+Group2Launcher3Name=Github Desktop
+Group2Launcher3Icon=_d_github.png
 Group2Launcher3BG=055
 
-Group2Launcher4Action=explorer.exe "C:\Program Files\Blender Foundation\Blender\blender.exe"
-Group2Launcher4Name=Blender
-Group2Launcher4Icon=_c_blender.png
-Group2Launcher4BG=113
+Group2Launcher4Action=explorer.exe "C:\Users\TheProtagonists\AppData\Local\GPMDP_3\app-4.5.0\Google Play Music Desktop Player.exe"
+Group2Launcher4Name=GPMDP
+Group2Launcher4Icon=googleplaymusic.png
+Group2Launcher4BG=046
 
-Group2Launcher5Action=explorer.exe "C:\Program Files\paint.net\PaintDotNet.exe"
-Group2Launcher5Name=Paint.NET
-Group2Launcher5Icon=_c_paintdotnet.png
-Group2Launcher5BG=046
+Group2Launcher5Action=explorer.exe "C:\Program Files (x86)\Netease\CloudMusic\cloudmusic.exe"
+Group2Launcher5Name=NetEase Music
+Group2Launcher5Icon=neteasemusic.png
+Group2Launcher5BG=020
 
-Group2Launcher6Action=explorer.exe "C:\Program Files\Inkscape\inkscape.exe"
-Group2Launcher6Name=Inkscape
-Group2Launcher6Icon=_c_inkscape.png
-Group2Launcher6BG=083
+Group2Launcher6Action=explorer.exe "C:\Program Files (x86)\Tencent\QQMusic\QQMusic.exe"
+Group2Launcher6Name=QQ Music
+Group2Launcher6Icon=qqmusic.png
+Group2Launcher6BG=036
 
 ;=========================================================================================================================
 ;Group 3 
