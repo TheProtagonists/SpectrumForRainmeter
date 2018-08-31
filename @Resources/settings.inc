@@ -28,10 +28,10 @@ BarGradient=180 | 0,178,255,255 ; 0.0 | 139,22,255,255 ; 0.5 | 255,51,51,255 ; 1
 ;General settings
 
 ;This value controls the speed of the skin active/deactive animation. The lower the value the faster the speed.
-AnimationFactor=24
+AnimationFactor=16
 
 ;This controls if battery is displayed across the skins. 0 to display and 1 to hide them.
-ShowBattery=1
+ShowBattery=0
 
 ;These changes the font used in the skin.
 ;Font used on the bars
@@ -70,7 +70,7 @@ Group1BarIcon=hexagons.png
 Group1Launcher1Action=explorer.exe "C:\Program Files\Unity\Editor\Unity.exe"
 Group1Launcher1Name=Unity
 Group1Launcher1Icon=_d_unity.png
-Group1Launcher1BG=076
+Group1Launcher1BG=012
 
 Group1Launcher2Action=explorer.exe "C:\Program Files\Blender Foundation\Blender\blender.exe"
 Group1Launcher2Name=Blender
@@ -135,7 +135,7 @@ Group2Launcher5BG=020
 Group2Launcher6Action=explorer.exe "C:\Program Files (x86)\Tencent\QQMusic\QQMusic.exe"
 Group2Launcher6Name=QQ Music
 Group2Launcher6Icon=qqmusic.png
-Group2Launcher6BG=036
+Group2Launcher6BG=120
 
 ;=========================================================================================================================
 ;Group 3 
