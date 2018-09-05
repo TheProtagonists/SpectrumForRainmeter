@@ -51,7 +51,7 @@ LauncherFont=Baksheesh
 ;Editing notes:
 ;	If the path contains space, use quote
 ;	Enter the full address to launch websites through your default browser, use browser.exe "site address" to specify browser
-;	Use explorer.exe "application path or folder path" for launching applications and folders
+;	Use ["application path or folder path"] for launching applications and folders
 ;	Use steam://rungameid/ to run steam games (note that not all steam games can be directly run like this)
 ;	Use shortcutname.lnk to launch a shortcut
 ;	Refer to https://docs.rainmeter.net/tips/launching-windows-special-folders/ for launching windows special folders
@@ -67,32 +67,32 @@ Group1BarIcon=hexagons.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group1Launcher1Action=explorer.exe "C:\Program Files\Unity\Editor\Unity.exe"
+Group1Launcher1Action=["C:\Program Files\Unity\Editor\Unity.exe"]
 Group1Launcher1Name=Unity
 Group1Launcher1Icon=_d_unity.png
 Group1Launcher1BG=012
 
-Group1Launcher2Action=explorer.exe "C:\Program Files\Blender Foundation\Blender\blender.exe"
+Group1Launcher2Action=["C:\Program Files\Blender Foundation\Blender\blender.exe"]
 Group1Launcher2Name=Blender
 Group1Launcher2Icon=_c_blender.png
 Group1Launcher2BG=056
 
-Group1Launcher3Action=explorer.exe "C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Photoshop.exe"
+Group1Launcher3Action=["C:\Program Files\Adobe\Adobe Photoshop CS6 (64 Bit)\Photoshop.exe"]
 Group1Launcher3Name=Photoshop
 Group1Launcher3Icon=_c_photoshop.png
 Group1Launcher3BG=021
 
-Group1Launcher4Action=explorer.exe "C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Support Files\Contents\Windows\Illustrator.exe"
+Group1Launcher4Action=["C:\Program Files\Adobe\Adobe Illustrator CS6 (64 Bit)\Support Files\Contents\Windows\Illustrator.exe"]
 Group1Launcher4Name=Illustrator
 Group1Launcher4Icon=_c_illustrator.png
 Group1Launcher4BG=047
 
-Group1Launcher5Action=explorer.exe "C:\Users\Tack\Documents\PaintTool SAI English Pack\sai.exe"
+Group1Launcher5Action=["C:\Users\Tack\Documents\PaintTool SAI English Pack\sai.exe"]
 Group1Launcher5Name=Paint Tool SAI
 Group1Launcher5Icon=_c_painttoolsai.png
 Group1Launcher5BG=106
 
-Group1Launcher6Action=explorer.exe "C:\Program Files\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\CILPStudio.exe"
+Group1Launcher6Action=["C:\Program Files\CELSYS\CLIP STUDIO 1.5\CLIP STUDIO\CILPStudio.exe"]
 Group1Launcher6Name=Clip Studio Paint
 Group1Launcher6Icon=_c_clipstudiopaint.png
 Group1Launcher6BG=102
@@ -107,32 +107,32 @@ Group2BarIcon=arc.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group2Launcher1Action=explorer.exe "C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\AfterFX.exe"
+Group2Launcher1Action=["C:\Program Files\Adobe\Adobe After Effects CS6\Support Files\AfterFX.exe"]
 Group2Launcher1Name=After Effects
 Group2Launcher1Icon=_c_aftereffects.png
 Group2Launcher1BG=093
 
-Group2Launcher2Action=explorer.exe "C:\Program Files\Adobe\Adobe Premiere Pro CS6\Adobe Premiere Pro.exe"
+Group2Launcher2Action=["C:\Program Files\Adobe\Adobe Premiere Pro CS6\Adobe Premiere Pro.exe"]
 Group2Launcher2Name=Premiere
 Group2Launcher2Icon=_c_premiere.png
 Group2Launcher2BG=027
 
-Group2Launcher3Action=explorer.exe "C:\Users\Tack\AppData\Local\GitHubDesktop\GitHubDesktop.exe"
+Group2Launcher3Action=["C:\Users\Tack\AppData\Local\GitHubDesktop\GitHubDesktop.exe"]
 Group2Launcher3Name=Github Desktop
 Group2Launcher3Icon=_d_github.png
 Group2Launcher3BG=055
 
-Group2Launcher4Action=explorer.exe "C:\Users\TheProtagonists\AppData\Local\GPMDP_3\app-4.5.0\Google Play Music Desktop Player.exe"
+Group2Launcher4Action=["C:\Users\TheProtagonists\AppData\Local\GPMDP_3\app-4.5.0\Google Play Music Desktop Player.exe"]
 Group2Launcher4Name=GPMDP
 Group2Launcher4Icon=googleplaymusic.png
 Group2Launcher4BG=046
 
-Group2Launcher5Action=explorer.exe "C:\Program Files (x86)\Netease\CloudMusic\cloudmusic.exe"
+Group2Launcher5Action=["C:\Program Files (x86)\Netease\CloudMusic\cloudmusic.exe"]
 Group2Launcher5Name=NetEase Music
 Group2Launcher5Icon=neteasemusic.png
 Group2Launcher5BG=020
 
-Group2Launcher6Action=explorer.exe "C:\Program Files (x86)\Tencent\QQMusic\QQMusic.exe"
+Group2Launcher6Action=["C:\Program Files (x86)\Tencent\QQMusic\QQMusic.exe"]
 Group2Launcher6Name=QQ Music
 Group2Launcher6Icon=qqmusic.png
 Group2Launcher6BG=120
@@ -202,7 +202,7 @@ Group4Launcher3Name=Kantai Collection
 Group4Launcher3Icon=_g_kantaicollection.png
 Group4Launcher3BG=KanColle
 
-Group4Launcher4Action=chrome.exe "http://game.granbluefantasy.jp/"
+Group4Launcher4Action=[chrome.exe "http://game.granbluefantasy.jp/"]
 Group4Launcher4Name=Granblue Fantasy
 Group4Launcher4Icon=_g_granbluefantasy.png
 Group4Launcher4BG=GBF
