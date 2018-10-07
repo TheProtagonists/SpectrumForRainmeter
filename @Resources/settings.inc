@@ -5,7 +5,7 @@
 
 
 ;Credits:
-;The icons used in this skin are from https://materialdesignicons.com/ and https://icons8.com/
+;The icons used in this skin are created by https://materialdesignicons.com/ and https://icons8.com/
 ;All images, artworks and backgrounds used in this skin are not created by me, and all rights goes to their original creators and copyright holders
 
 
@@ -31,7 +31,7 @@ BarGradient=180 | 0,178,255,255 ; 0.0 | 139,22,255,255 ; 0.5 | 255,51,51,255 ; 1
 AnimationFactor=16
 
 ;This controls if battery is displayed across the skins. 0 to display and 1 to hide them.
-ShowBattery=0
+ShowBattery=1
 
 ;These changes the font used in the skin.
 ;Font used on the bars
