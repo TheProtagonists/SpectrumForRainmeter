@@ -1,5 +1,5 @@
 # Spectrum For Rainmeter
-v3.0
+v3.1
 
 Demo: https://streamable.com/ji58d
 
