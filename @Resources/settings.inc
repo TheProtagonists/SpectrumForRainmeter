@@ -147,32 +147,32 @@ Group3BarIcon=gamepad.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group3Launcher1Action=steam://rungameid/265610
+Group3Launcher1Action=[steam://rungameid/265610]
 Group3Launcher1Name=Epic Battle Fantasy 4
 Group3Launcher1Icon=_g_epicbattlefantasy.png
 Group3Launcher1BG=041
 
-Group3Launcher2Action=steam://rungameid/391540
+Group3Launcher2Action=[steam://rungameid/391540]
 Group3Launcher2Name=Undertale
 Group3Launcher2Icon=_g_undertale.png
 Group3Launcher2BG=062
 
-Group3Launcher3Action=steam://rungameid/351710
+Group3Launcher3Action=[steam://rungameid/351710]
 Group3Launcher3Name=Neptunia ReBirth Mk2
 Group3Launcher3Icon=_g_neptunia.png
 Group3Launcher3BG=022
 
-Group3Launcher4Action=steam://rungameid/8930
+Group3Launcher4Action=[steam://rungameid/8930]
 Group3Launcher4Name=Civilization V
 Group3Launcher4Icon=_g_civilizationv.png
 Group3Launcher4BG=095
 
-Group3Launcher5Action=steam://rungameid/255710
+Group3Launcher5Action=[steam://rungameid/255710]
 Group3Launcher5Name=Cities Skylines
 Group3Launcher5Icon=_g_citiesskylinesalt.png
 Group3Launcher5BG=036
 
-Group3Launcher6Action=steam://rungameid/281990
+Group3Launcher6Action=[steam://rungameid/281990]
 Group3Launcher6Name=Stellaris
 Group3Launcher6Icon=_g_stellaris.png
 Group3Launcher6BG=076
@@ -187,17 +187,17 @@ Group4BarIcon=gamepad.png
 
 ;Launcher settings: action, name, icon and mouseover background
 
-Group4Launcher1Action=steam://rungameid/220200
+Group4Launcher1Action=[steam://rungameid/220200]
 Group4Launcher1Name=Kerbal Space Program
 Group4Launcher1Icon=_g_ksp.png
 Group4Launcher1BG=KSP3
 
-Group4Launcher2Action=steam://rungameid/212680
+Group4Launcher2Action=[steam://rungameid/212680]
 Group4Launcher2Name=FTL
 Group4Launcher2Icon=_g_ftl.png
 Group4Launcher2BG=FTL
 
-Group4Launcher3Action="http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/"
+Group4Launcher3Action=["http://www.dmm.com/netgame/social/-/gadgets/=/app_id=854854/"]
 Group4Launcher3Name=Kantai Collection
 Group4Launcher3Icon=_g_kantaicollection.png
 Group4Launcher3BG=KanColle
@@ -207,12 +207,12 @@ Group4Launcher4Name=Granblue Fantasy
 Group4Launcher4Icon=_g_granbluefantasy.png
 Group4Launcher4BG=GBF
 
-Group4Launcher5Action=steam://rungameid/3590
+Group4Launcher5Action=[steam://rungameid/3590]
 Group4Launcher5Name=Plants VS Zombies
 Group4Launcher5Icon=_g_plantsvszombies.png
 Group4Launcher5BG=045
 
-Group4Launcher6Action=steam://rungameid/387290
+Group4Launcher6Action=[steam://rungameid/387290]
 Group4Launcher6Name=Ori DE
 Group4Launcher6Icon=_g_oriandtheblindforest.png
 Group4Launcher6BG=Ori
